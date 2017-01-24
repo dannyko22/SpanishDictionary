@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Spanish English Dictionary</string>
+    <string name="action_settings">About Me</string>
+    <string name="title_activity_about_me">About Me</string>
+    <string name="title_activity_dictionary_item">Spanish English Dictionary</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="banner_ad_unit_id">ca-app-pub-6778581968244410/5015389286</string>
+    <string name="admob_interstitial_id">ca-app-pub-6778581968244410/9210592886</string>
+</resources>

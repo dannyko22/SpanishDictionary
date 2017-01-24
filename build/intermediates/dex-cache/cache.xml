@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.0.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="C:\Users\Danny\AndroidStudioProjects\SpanishDictionary\app\build\intermediates\pre-dexed\release\support-annotations-20.0.0_9ade5ec4e43d9f0dedde29f0e205b2f48594e1c0.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danny\AndroidStudioProjects\SpanishDictionary\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\libs\internal_impl-20.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="C:\Users\Danny\AndroidStudioProjects\SpanishDictionary\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-20.0.0_f39efc2eb171c9755972b6bad39437135ee3bf75\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Danny\AndroidStudioProjects\SpanishDictionary\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="C:\Users\Danny\AndroidStudioProjects\SpanishDictionary\app\build\intermediates\pre-dexed\release\com.android.support-support-v4-20.0.0_1e9546ae7a2918687d6ab595cf4bbf1b5a966486.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danny\AndroidStudioProjects\SpanishDictionary\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.0.0"
+        sha1="3fc6574ca7af382246696c5018b110c97375bc4e">
+        <dex dex="C:\Users\Danny\AndroidStudioProjects\SpanishDictionary\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_7e05c40325cbd245e5a96e3ccf3293abe3b53e61\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Danny\AndroidStudioProjects\SpanishDictionary\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.1.71\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.0.0"
+        sha1="0f6d5c1ef2e982c3b7858408e3df389cf5d202da">
+        <dex dex="C:\Users\Danny\AndroidStudioProjects\SpanishDictionary\app\build\intermediates\pre-dexed\release\com.google.android.gms-play-services-6.1.71_9a80ada03238c0faf9b94f9c978c5e0c9709c18b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.0.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="C:\Users\Danny\AndroidStudioProjects\SpanishDictionary\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-20.0.0_9ade5ec4e43d9f0dedde29f0e205b2f48594e1c0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danny\AndroidStudioProjects\SpanishDictionary\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="C:\Users\Danny\AndroidStudioProjects\SpanishDictionary\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-20.0.0_1e9546ae7a2918687d6ab595cf4bbf1b5a966486\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danny\AndroidStudioProjects\SpanishDictionary\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.0.0"
+        sha1="ebcf2b88f17de5235767e755ede24078b722e16d">
+        <dex dex="C:\Users\Danny\AndroidStudioProjects\SpanishDictionary\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_b08d6581bf623c3c4400e58d3cc881d89b421cf7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danny\AndroidStudioProjects\SpanishDictionary\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\20.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.0.0"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef">
+        <dex dex="C:\Users\Danny\AndroidStudioProjects\SpanishDictionary\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-20.0.0_56ffd2b1a1e4853b3744c2f8f8b066acd58f1bf9\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Danny\AndroidStudioProjects\SpanishDictionary\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\20.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.0.0"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef">
+        <dex dex="C:\Users\Danny\AndroidStudioProjects\SpanishDictionary\app\build\intermediates\pre-dexed\release\com.android.support-appcompat-v7-20.0.0_56ffd2b1a1e4853b3744c2f8f8b066acd58f1bf9.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Danny\AndroidStudioProjects\SpanishDictionary\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\6.1.71\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="21.0.0"
+        sha1="0f6d5c1ef2e982c3b7858408e3df389cf5d202da">
+        <dex dex="C:\Users\Danny\AndroidStudioProjects\SpanishDictionary\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-6.1.71_9a80ada03238c0faf9b94f9c978c5e0c9709c18b\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Danny\AndroidStudioProjects\SpanishDictionary\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="21.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="C:\Users\Danny\AndroidStudioProjects\SpanishDictionary\app\build\intermediates\pre-dexed\release\internal_impl-20.0.0_f39efc2eb171c9755972b6bad39437135ee3bf75.jar" />
+    </item>
+
+</items>
